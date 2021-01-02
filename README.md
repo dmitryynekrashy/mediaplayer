@@ -1,7 +1,7 @@
 # mediaplayer
 MediaPlayer for Windows,Linux,MacOS
 На русском
-#using
+# using
 Можно использовать на Windows,Linux и MacOS
 Для Windows находится файл в формате *.exe
 Для Linux и MacOS в формате *.jar
